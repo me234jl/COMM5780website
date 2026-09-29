@@ -31,6 +31,7 @@ body {
   line-height: 1.6;
   color: var(--ink);
   background: var(--paper);
+  text-align: center;
 }
 
 header {
@@ -52,6 +53,7 @@ header p {
   max-width: 34rem;
   font-size: 1.25rem;
   color: var(--muted);
+  margin-left: auto; margin-right: auto;
 }
 
 nav {
@@ -108,6 +110,7 @@ section h2 {
 #about p {
   max-width: 40rem;
   color: var(--muted);
+  margin-left: auto; margin-right: auto;
 }
 
 #ideas {
